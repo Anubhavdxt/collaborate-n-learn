@@ -1,2 +1,2 @@
-# genesis-education
-Website for genesis education coaching institute
+# Collaborate-n-learn
+Web-app for cuvette hackathon
